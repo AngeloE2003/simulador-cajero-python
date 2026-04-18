@@ -28,4 +28,15 @@ Este proyecto fue realizado de manera colaborativa por:
 * REYES CUEVA, Israel David
 
 ## 📸 Demostración
-<img width="484" height="386" alt="image" src="https://github.com/user-attachments/assets/2aac7e33-9434-4f6f-a8fe-9f3d46888f96" />
+1.	Registro de Cliente:
+<img width="484" height="386" alt="image" src="https://github.com/user-attachments/assets/bbc132fd-e72d-4a17-9f20-c17105be2a20" />
+<img width="680" height="298" alt="image" src="https://github.com/user-attachments/assets/27272a1f-73b0-43f8-9524-a88590792192" />
+2.	Registro de Cajero:
+   <img width="488" height="302" alt="image" src="https://github.com/user-attachments/assets/a183b5b2-b862-4166-9055-6a66de82296a" />
+<img width="602" height="254" alt="image" src="https://github.com/user-attachments/assets/338b74d2-4d3b-4c35-b790-94c6466776a2" />
+3.	Realizar Operación:
+   3.1.Retiro
+  	<img width="422" height="521" alt="image" src="https://github.com/user-attachments/assets/11695103-8d33-4040-8539-42d13b1147fe" />
+
+
+  
