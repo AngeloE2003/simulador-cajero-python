@@ -23,7 +23,7 @@ Este proyecto fue realizado de manera colaborativa por:
 * ARENAS CHAVARRY, Diego Armando
 * ARMAS ALVARADO, Jose Deyvis
 * CADILLO PIPA, Tania Medali
-* ECHENIQUE QUISPE, Angelo Gabriel
+* **ECHENIQUE QUISPE, Angelo Gabriel**
 * REATEGUI AREVALO, Oscar Manuel
 * REYES CUEVA, Israel David
 
