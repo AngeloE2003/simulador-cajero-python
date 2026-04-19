@@ -39,5 +39,58 @@ Este proyecto fue realizado de manera colaborativa por:
    3.1.Retiro
   	<img width="422" height="521" alt="image" src="https://github.com/user-attachments/assets/11695103-8d33-4040-8539-42d13b1147fe" />
 
+   3.2.Depósito
+   <img width="459" height="641" alt="image" src="https://github.com/user-attachments/assets/d31959f0-1ad5-46f2-b5b3-7180a6a102d0" />
+
+   3.3.Transferencia
+   <img width="873" height="572" alt="image" src="https://github.com/user-attachments/assets/fc0ae38d-1c61-4ac4-b403-25868ff6f789" />
+
+   3.4.Pago Servicios
+   <img width="862" height="473" alt="image" src="https://github.com/user-attachments/assets/802f3d6d-f089-437b-9d73-7643ccf0a78d" />
+
+   3.5.Consultar Saldo
+   <img width="459" height="552" alt="image" src="https://github.com/user-attachments/assets/3f50d390-fa71-46e3-a717-90893541022e" />
+
+   3.6.Consultar Movimientos
+   <img width="854" height="614" alt="image" src="https://github.com/user-attachments/assets/192f91e6-27e5-4cb8-82e4-1d4b6ac8fc53" />
+
+4. Actualizar Cajero:
+
+   4.1.Abastecer Cajero
+   <img width="550" height="578" alt="image" src="https://github.com/user-attachments/assets/0f805adf-a406-40c6-abcd-c5b8b56f8905" />
+
+   4.2.Consultar Saldo Cajero
+   <img width="561" height="453" alt="image" src="https://github.com/user-attachments/assets/050ca677-efc0-4ec8-ac3a-a635505470a0" />
+
+   4.3.Consultar Movimientos del Cajero
+   <img width="612" height="398" alt="image" src="https://github.com/user-attachments/assets/5f68a3cf-35d9-48d5-aeeb-f0de3014b4ac" />
+
+5. Listar Clientes:
+   <img width="484" height="330" alt="image" src="https://github.com/user-attachments/assets/df763bb1-e267-478b-9254-7a936d3c0695" />
+6. Listar Cajeros:
+   <img width="467" height="331" alt="image" src="https://github.com/user-attachments/assets/4d4ed417-bb4e-44d1-9374-a7e3dcbc6806" />
+
+7. Dar de baja Cliente/Cajero:
+
+   7.1. Dar de baja Cliente
+   <img width="845" height="431" alt="image" src="https://github.com/user-attachments/assets/bf9caf15-9c22-4640-becb-c83fc45c0532" />
+
+   7.2. Dar de baja Cajero
+   <img width="831" height="438" alt="image" src="https://github.com/user-attachments/assets/cbe08682-06ec-4440-a3a8-eb2f42b60117" />
+
+8. Salir:
+   <img width="458" height="328" alt="image" src="https://github.com/user-attachments/assets/162752f5-03a5-4289-8f12-0a72434b3edd" />
+
+
+
+
+
+
+     
+
+
+
+
+
 
   
